@@ -1,5 +1,5 @@
-CYO
-===
+Rackspace CYO Project
+=====================
 
 CYO (Choose Your Own) is an extremely simple, but powerful, storytelling engine built with Angular.js.
 
