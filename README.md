@@ -26,7 +26,7 @@ How to contribute to the game
     $ git checkout -b branchname
     ```
 
-- Put HTML files with your story chapters / pages to the `racker_cyo/story` folder.  Adding cool media stuff, animation, etc. is HIGHLY DESIRED!
+- Put HTML files with your story chapters / pages in the `racker_cyo/story` folder.  Adding cool media stuff, animation, etc. is HIGHLY DESIRED!
 - Put cool media stuff (video, images, audio, whatever) in the `racker_cyo/assets` folder
 - Put any javascript libraries you need for your cool stuff in the `racker_cyo/lib` folder
 - Put any cool AngularJS code you want to make your story chapters / pages awesome in `racker_cyo/scripts`
