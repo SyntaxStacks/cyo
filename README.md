@@ -63,8 +63,8 @@ For any questions or help email <a href="mailto:rackspace-cyo@lists.rackspace.co
 
 Learning Resources
 ------------------
-AngularJS: https://github.com/jmcunningham/AngularJS-Learning
-CSS: http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906
-HTML5: http://www.html5rocks.com/en/resources
+- AngularJS: https://github.com/jmcunningham/AngularJS-Learning
+- CSS: http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906
+- HTML5: http://www.html5rocks.com/en/resources
 
 *CYO was created by Daniel Stern*
